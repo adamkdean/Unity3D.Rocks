@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RGameScreen.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Rocks.cs" Line="14" Column="29" />
+      <File FileName="Assets\Scripts\RGame.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\RGameScreen.cs" Line="12" Column="80" />
+      <File FileName="Assets\Scripts\RTurret.cs" Line="12" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
